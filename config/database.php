@@ -29,8 +29,8 @@ return [
     |
     */
 
+        //banco de dados mysql
     'connections' => [
-
         'mysql_users' => [
             'driver' => 'mysql',
             'url' => '',
